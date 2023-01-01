@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullahi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on [Business Admin System](https://github.com/Abdullahi254/gaming-lounge-management-system)
+- 🔭 I’m currently working on [An ecommerce project](https://github.com/Abdullahi254/)
 
 - 🌱 I’m currently learning **Blockchain Development**
 
@@ -10,7 +10,7 @@
 - 💬 Ask me about **react, node js , firebase**
 
 - 📫 How to reach me **abdush504@gmail.com**
-- https://abdullah-s-portfolio.vercel.app/
+- https://portfolio-2-eight-eta.vercel.app
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
