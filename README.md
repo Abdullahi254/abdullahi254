@@ -10,7 +10,7 @@
 - 💬 Ask me about **react, node js , firebase**
 
 - 📫 How to reach me **abdush504@gmail.com**
-- https://portfolio-2-eight-eta.vercel.app
+- https://https://abdullah-s-portfolio.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
