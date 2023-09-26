@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [An ecommerce project](https://github.com/Abdullahi254/ecommerce-next-template)
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently learning **Back-end & Dev-op**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullahi254](https://github.com/Abdullahi254)
 
-- 💬 Ask me about **react, node js , firebase**
+- 💬 Ask me about **react, next js**
 
 - 📫 How to reach me **abdush504@gmail.com**
 - https://abdullah-s-portfolio.vercel.app/
