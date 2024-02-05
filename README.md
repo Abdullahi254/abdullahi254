@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullahi</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on [An ecommerce project](https://github.com/Abdullahi254/ecommerce-next-template)
+- 🔭 I’m currently working on [this project](https://github.com/Abdullahi254/sh-web-app)
 
 - 🌱 I’m currently learning **Back-end & Dev-op**
 
