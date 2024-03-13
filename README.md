@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdullahi</h1>
-<h3 align="center">A passionate frontend developer from Kenya</h3>
+<h3 align="center">A passionate software developer from Kenya</h3>
 
 - 🔭 I’m currently working on [this project](https://github.com/Abdullahi254/sh-web-app)
 
-- 🌱 I’m currently learning **Back-end & Dev-op**
+- 🌱 I’m currently learning **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullahi254](https://github.com/Abdullahi254)
 
