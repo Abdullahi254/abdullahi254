@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [this project](https://github.com/Abdullahi254/sh-web-app)
 
-- 🌱 I’m currently learning **Blockchain Development**
+- 🌱 I’m currently doing **Blockchain Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullahi254](https://github.com/Abdullahi254)
 
