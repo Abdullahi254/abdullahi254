@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdullahi254](https://github.com/Abdullahi254)
 
-- 💬 Ask me about **react, next js**
+- 💬 Ask me about **.Net, react, next js**
 
 - 📫 How to reach me **abdush504@gmail.com**
 - https://abdullah-s-portfolio.vercel.app/
